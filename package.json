@@ -1,5 +1,5 @@
 {
-    "name": "backend-starter",
+    "name": "jtinsurance-backend",
     "version": "1.0.0",
     "scripts": {
         "start": "serverless offline start --printOutput --stage local",
